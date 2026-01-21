@@ -1,0 +1,7 @@
+{
+  "name": "Fruitful Days Calendar",
+  "description": "A minimalist, fruit-themed tear-off calendar app featuring real-time Kuala Lumpur weather, lunar dates, and daily idioms with a satisfying paper-tearing animation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
